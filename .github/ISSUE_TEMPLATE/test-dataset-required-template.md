@@ -1,6 +1,6 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+name: Test dataset required template
+about: Describe this issue template's purpose here.
 title: ''
 labels: ''
 assignees: adibaba
