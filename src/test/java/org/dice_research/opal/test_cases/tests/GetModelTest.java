@@ -1,16 +1,21 @@
-package org.dice_research.opal.test_cases;
+package org.dice_research.opal.test_cases.tests;
 
 import java.io.IOException;
 import java.net.URISyntaxException;
 
 import org.apache.jena.rdf.model.Model;
+import org.dice_research.opal.test_cases.OpalTestCases;
 import org.junit.Assert;
 import org.junit.Test;
 
 public class GetModelTest {
 
-	private Model getTestModel(String setId, String testId) throws IOException {
-		return org.dice_research.opal.test_cases.OpalTestCases.getModel(setId, testId);
+	/**
+	 * Used for README.md
+	 */
+	Model getTestModel(String testSetId, String testId) throws IOException {
+		Model model = OpalTestCases.getModel(testSetId, testId);
+		return model;
 	}
 
 	@Test

@@ -115,14 +115,16 @@ public abstract class OpalTestCases {
 	public static void main(String[] args) throws Exception {
 		// Used to test resources in jar.
 
-		SortedSet<String> sets = OpalTestCases.listSets();
-		System.out.println("Sets: " + sets);
+		SortedSet<String> testSets = OpalTestCases.listSets();
+		System.out.println("Sets: " + testSets);
 
-		Map<String, String> tests = OpalTestCases.listTests(sets.first());
-		System.out.println("Tests: " + tests.keySet());
-		System.out.println("URIs: " + tests.values());
+		Map<String, String> tests = OpalTestCases.listTests(testSets.first());
+		for (String testId : tests.keySet()) {
+			System.out.println("Test:    " + testId);
+			System.out.println("Dataset: " + tests.get(testId));
+		}
 
-		Model model = OpalTestCases.getModel(sets.first(), tests.keySet().iterator().next());
+		Model model = OpalTestCases.getModel(testSets.first(), tests.keySet().iterator().next());
 		System.out.println(model);
 	}
 }

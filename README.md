@@ -2,28 +2,40 @@
 
 This component provides test cases. The single tests are separated into sets.
 
-## Example: Get all sets
+## Example: Get all test sets
 
 ```java
-SortedSet<String> listSets() throws URISyntaxException, IOException {
-	return org.dice_research.opal.test_cases.OpalTestCases.listSets();
-}
+import org.dice_research.opal.test_cases.OpalTestCases;
+
+SortedSet<String> testSets = OpalTestCases.listSets();
+
+System.out.println("Test sets: " + testSets);
 ```
 
 ## Example: Get all tests of a set
 
 ```java
-Map<String, String> getSets(String setId) throws URISyntaxException, IOException  {
-	return org.dice_research.opal.test_cases.OpalTestCases.listTests(setId);
+import org.dice_research.opal.test_cases.OpalTestCases;
+
+// String testSetId = ...
+
+Map<String, String> tests = OpalTestCases.listTests(testSetId);
+
+for (String testId : tests.keySet()) {
+	System.out.println("Test:    " + testId);
+	System.out.println("Dataset: " + tests.get(testId));
 }
 ```
 
 ## Example: Get a test model
 
 ```java
-private Model getTestModel(String setId, String testId) throws IOException {
-	return org.dice_research.opal.test_cases.OpalTestCases.getModel(setId, testId);
-}
+import org.dice_research.opal.test_cases.OpalTestCases;
+
+// String testSetId = ...
+// String testId = ...
+
+Model model = OpalTestCases.getModel(testSetId, testId);
 ```
 
 

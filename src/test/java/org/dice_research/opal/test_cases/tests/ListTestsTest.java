@@ -1,16 +1,21 @@
-package org.dice_research.opal.test_cases;
+package org.dice_research.opal.test_cases.tests;
 
 import java.io.IOException;
 import java.net.URISyntaxException;
 import java.util.Map;
 
+import org.dice_research.opal.test_cases.OpalTestCases;
 import org.junit.Assert;
 import org.junit.Test;
 
 public class ListTestsTest {
 
-	Map<String, String> getSets(String setId) throws URISyntaxException, IOException  {
-		return org.dice_research.opal.test_cases.OpalTestCases.listTests(setId);
+	/**
+	 * Used for README.md
+	 */
+	Map<String, String> getSets(String testSetId) throws URISyntaxException, IOException {
+		Map<String, String> tests = OpalTestCases.listTests(testSetId);
+		return tests;
 	}
 
 	@Test
