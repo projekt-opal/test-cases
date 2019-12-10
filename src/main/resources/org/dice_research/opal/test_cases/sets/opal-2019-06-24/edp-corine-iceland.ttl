@@ -1,0 +1,123 @@
+# Label:
+# edp-corine-iceland
+#
+# Source:
+# https://hobbitdata.informatik.uni-leipzig.de/OPAL/OpalGraph/2019-06-24/opal-graph.tar.gz
+# model50.ttl
+#
+# Not included:
+#<http://projekt-opal.de/catalog/europeandataportal> a dcat:Catalog ;
+
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix dcat:  <http://www.w3.org/ns/dcat#> .
+
+<http://projekt-opal.de/dataset/https___europeandataportal_eu_set_data__3dff988d_59d2_415d_b2da_818e8ef31117_>
+        a                       dcat:Dataset ;
+        <http://www.w3.org/2000/01/rdf-schema#comment>
+                "Spatial resolution (equivalent scale): 1:100000"@en ;
+        dct:accrualPeriodicity  <http://publications.europa.eu/resource/authority/frequency/UNKNOWN> ;
+        dct:conformsTo          [ dct:type  <http://inspire.ec.europa.eu/metadata-codelist/SpatialReferenceSystem> ;
+                                  <http://www.w3.org/2002/07/owl#versionInfo>
+                                          "8.2.6"@en ;
+                                  <http://www.w3.org/2004/02/skos/core#inScheme>
+                                          []  ;
+                                  <http://www.w3.org/2004/02/skos/core#prefLabel>
+                                          "3057"@en
+                                ] ;
+        dct:creator             [ a       <http://xmlns.com/foaf/0.1/Organization> ;
+                                  <http://xmlns.com/foaf/0.1/mbox>
+                                          <mailto:kolbeinn@lmi.is> ;
+                                  <http://xmlns.com/foaf/0.1/name>
+                                          "National Land Survey of Iceland"
+                                ] ;
+        dct:description         "The Corine Land Cover datasets CLC2000, CLC2006and CLC change 2000-2006areproduced within the frame of the GMES land monitoringproject.Corine Land Cover (CLC) provides consistent information on land cover and land cover changes across Europe. This inventory was initiated in 1985 (reference year 1990) and established a time series of land cover information with updates in 2000 and 2006.CLC products are based on photointerpretation of satellite images by national teams of participating countries - the EEA member and cooperating countries – following a standard methodology and nomenclature with the following base parameters: 44 classes in the hierarchical three level Corine nomenclature; minimum mapping unit (MMU) for status layers is 25 hectares; minimum width of linear elements is 100 metres; minimum mapping unit (MMU) for Land Cover Changes (LCC) for the change layers is 5 hectares. The resulting national land cover inventories are further integrated into a seamless land cover map of Europe.Land cover and land use (LCLU) information is important not only for land change research, but also more broadly for the monitoring of environmental change, policy support, the creation of environmental indicators and reporting. CLC datasets provide important datasets supporting the implementation of key priority areas of the Environment Action Programmes of the European Union as protecting ecosystems, halting the loss of biological diversity, tracking the impacts of climate change, assessing developments in agriculture and implementing the EU Water Framework Directive, among others.More about the Corine Land Cover (CLC) and Copernicus land monitoring data in general can be found at http://land.copernicus.eu/."@en ;
+        dct:identifier          "{CE1CBDCB-2D94-44C8-9D23-2A8F0D0F1F28}" ;
+        dct:language            <http://publications.europa.eu/resource/authority/language/ENG> ;
+        dct:modified            "2009-07-02"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        dct:provenance          [ a       dct:ProvenanceStatement ;
+                                  <http://www.w3.org/2000/01/rdf-schema#label>
+                                          "Iceland joined the CORINE project in 2007 and the CLC2006 classification was finished in December 2008. It was the first CLC classification to be implemented for the country. Concurrently with the CLC2006 mapping data and information on land cover changes between 2006 and 2000 were compiled and CLC2000 and CLC-Changes databases were produced by down-dating the CLC2006 results. Satellite images acquired from the datasets image2000 and image2006 served as the basis for image interpretation. Topographic maps, GoogleEarth, high resolution SPOT-images and high resolution public map services (e.g. ja.is) were used to support the interpretation process. ArcGis 9.3 software was used for computer assisted visual photo-interpretation. In December 2008 the final report for CLC2006 in Iceland (Grant agreement 3601/B2007. EEA53004) was sent to the European Environment Agency. After CLC2006 final report was delivered some errors and inaccuracies were found in the database and corrected. After the CLC2000 and CLCChanges databases were finished they were uploaded on the Central Data Repository (CDR) at EEA along with the new and corrected version of the CLC2006."@en
+                                ] ;
+        dct:rightsHolder        [ a       <http://xmlns.com/foaf/0.1/Organization> ;
+                                  <http://www.w3.org/ns/locn#address>
+                                          []  ;
+                                  <http://xmlns.com/foaf/0.1/mbox>
+                                          <mailto:entr-copernicus-services@ec.europa.eu> ;
+                                  <http://xmlns.com/foaf/0.1/name>
+                                          "European Commission - Directorate-General Enterprise and Industry (DG-ENTR)"
+                                ] ;
+        dct:spatial             []  ;
+        dct:spatial             [ a       dct:Location ;
+                                  <http://www.w3.org/ns/locn#geometry>
+                                          "<gml:Envelope srsName=\"http://www.opengis.net/def/EPSG/0/4326\"><gml:lowerCorner>63.079536 -25.790734</gml:lowerCorner><gml:upperCorner>66.793485 -12.209266</gml:upperCorner></gml:Envelope>"^^<http://www.opengis.net/ont/geosparql#gmlLiteral> , "POLYGON((-25.790734 66.793485,-12.209266 66.793485,-12.209266 63.079536,-25.790734 63.079536,-25.790734 66.793485))"^^<http://www.openlinksw.com/schemas/virtrdf#Geometry>
+                                ] ;
+        dct:spatial             [ a       dct:Location ;
+                                  <http://www.w3.org/ns/locn#geometry>
+                                          "<gml:Envelope srsName=\"http://www.opengis.net/def/EPSG/0/4326\"><gml:lowerCorner>63.079536 -25.790734</gml:lowerCorner><gml:upperCorner>66.793485 -12.209266</gml:upperCorner></gml:Envelope>"^^<http://www.opengis.net/ont/geosparql#gmlLiteral> , "POLYGON((-25.790734 66.793485,-12.209266 66.793485,-12.209266 63.079536,-25.790734 63.079536,-25.790734 66.793485))"^^<http://www.openlinksw.com/schemas/virtrdf#Geometry>
+                                ] ;
+        dct:spatial             []  ;
+        dct:spatial             [ a       dct:Location ;
+                                  <http://www.w3.org/ns/locn#geometry>
+                                          "POLYGON((-24.6836 68.02734,-13.08204 68.02734,-13.08204 62.57812,-24.6836 62.57812,-24.6836 68.02734))"^^<http://www.openlinksw.com/schemas/virtrdf#Geometry> , "<gml:Envelope srsName=\"http://www.opengis.net/def/EPSG/0/4326\"><gml:lowerCorner>62.57812 -24.6836</gml:lowerCorner><gml:upperCorner>68.02734 -13.08204</gml:upperCorner></gml:Envelope>"^^<http://www.opengis.net/ont/geosparql#gmlLiteral>
+                                ] ;
+        dct:subject             <http://inspire.ec.europa.eu/metadata-codelist/TopicCategory/environment> ;
+        dct:title               "CORINE land cover Iceland, clc00_is"@en ;
+        dct:type                <http://inspire.ec.europa.eu/metadata-codelist/ResourceType/dataset> ;
+        dcat:contactPoint       [ a       <http://www.w3.org/2006/vcard/ns#Organization> ;
+                                  <http://www.w3.org/2006/vcard/ns#hasAddress>
+                                          []  ;
+                                  <http://www.w3.org/2006/vcard/ns#hasEmail>
+                                          <mailto:eea.enquiries@eea.europa.eu> ;
+                                  <http://www.w3.org/2006/vcard/ns#organization-name>
+                                          "European Environment Agency"
+                                ] ;
+        dcat:distribution       <http://projekt-opal.de/distribution/https___europeandataportal_eu_set_distribution_00e07cb2_42d1_4901_968d_b5ad042113f9> , <http://projekt-opal.de/distribution/https___europeandataportal_eu_set_distribution_a3e9b8a9_5485_481b_a1ea_37f3522edf44> ;
+        dcat:keyword            "Land use"@en , "Iceland"@en ;
+        dcat:theme              <http://eurovoc.europa.eu/100155> , <http://publications.europa.eu/resource/authority/data-theme/ENVI> ;
+        dcat:theme              []  ;
+        dcat:theme              [ a       <http://www.w3.org/2004/02/skos/core#Concept> ;
+                                  <http://www.w3.org/2004/02/skos/core#inScheme>
+                                          []  ;
+                                  <http://www.w3.org/2004/02/skos/core#prefLabel>
+                                          "Land cover"
+                                ] ;
+        <http://www.w3.org/ns/dqv#hasQualityMeasurement>
+                <http://projekt-opal.de/measurement172316> , <http://projekt-opal.de/measurement172318> , <http://projekt-opal.de/measurement172315> , <http://projekt-opal.de/measurement172319> , <http://projekt-opal.de/measurement172317> , <http://projekt-opal.de/measurement172314> , <http://projekt-opal.de/measurement172313> ;
+        <http://www.w3.org/ns/prov#qualifiedAttribution>
+                [ a         <http://www.w3.org/ns/prov#Attribution> ;
+                  dct:type  <http://inspire.ec.europa.eu/metadata-codelist/ResponsiblePartyRole/custodian> ;
+                  <http://www.w3.org/ns/prov#agent>
+                          [] 
+                ] ;
+        <http://www.w3.org/ns/prov#wasUsedBy>
+                [ a       <http://www.w3.org/ns/prov#Activity> ;
+                  <http://www.w3.org/ns/prov#generated>
+                          []  ;
+                  <http://www.w3.org/ns/prov#qualifiedAssociation>
+                          [] 
+                ] ;
+        <http://xmlns.com/foaf/0.1/isPrimaryTopicOf>
+                [ a                  dcat:CatalogRecord ;
+                  dct:identifier     "{3DFF988D-59D2-415D-B2DA-818E8EF31117}" ;
+                  dct:language       <http://publications.europa.eu/resource/authority/language/ENG> ;
+                  dct:source         []  ;
+                  <http://www.w3.org/2011/content#characterEncoding>
+                          "UTF-8" ;
+                  dcat:contactPoint  [] 
+                ] ;
+        <http://xmlns.com/foaf/0.1/page>
+                <https://kort.lmi.is/?zoomLevel=6&coord=509768.4216_504499.0515&mapLayers=175+50+default,94+70+> , <http://www.lmi.is/en> , <https://gis.lmi.is/geoserver> , <https://gis.lmi.is/geoserver/CORINE/ows?request=GetCapabilities&service=WMS> .
+
+<http://projekt-opal.de/measurement172366>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/ContactUrl> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement174655>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/MultipleSerializations> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
