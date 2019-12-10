@@ -3,7 +3,7 @@
 Note: If you need an additonal dataset, please create a [new issue](https://github.com/projekt-opal/test-cases/issues/new/choose).
 Currently, you'll need to specify a dataset from the [OpalGraph 2019-06-24](https://hobbitdata.informatik.uni-leipzig.de/OPAL/OpalGraph/2019-06-24/).
 
-This component provides test cases. The single tests are separated into sets.
+This component provides test cases. The single tests are separated into sets. Take a view at the [available test cases](src/main/resources/org/dice_research/opal/test_cases/sets/).
 
 
 ## Examples
