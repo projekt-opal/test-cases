@@ -36,6 +36,7 @@ Add the following lines to your `pom.xml` configuration file:
 			<groupId>org.dice-research.opal</groupId>
 			<artifactId>test-cases</artifactId>
 			<version>[1,2)</version>
+			<scope>test</scope>
 		</dependency>
 	</dependencies>
 	
