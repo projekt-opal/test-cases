@@ -1,49 +1,50 @@
 package org.dice_research.opal.test_cases;
 
-import java.io.File;
+import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStream;
+import java.io.InputStreamReader;
 import java.net.URI;
 import java.net.URISyntaxException;
-import java.nio.charset.StandardCharsets;
 import java.nio.file.FileSystem;
 import java.nio.file.FileSystems;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.Collections;
-import java.util.HashMap;
 import java.util.Iterator;
-import java.util.Map;
 import java.util.SortedSet;
 import java.util.TreeSet;
+import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-import org.apache.commons.io.IOUtils;
-import org.apache.jena.rdf.model.Model;
 import org.dice_research.opal.common.utilities.ModelSerialization;
 
 /**
- * Provides test cases. The single tests are separated into sets.
+ * Provides test cases. Single tests are separated into sets.
  * 
- * Use {@link #listSets()} to get all set identifiers.
+ * Use {@link #listTestSets()} to get all set identifiers.
  * 
- * Use {@link #listTests(String)} to get all test identifiers.
+ * Use {@link #listTestCases(String)} to get all test-identifiers (for a
+ * set-identifier).
  * 
- * Use {@link #getModel(String, String)} to specify a set and a test, and get
- * the related test model.
+ * Use {@link #getTestCase(String, String)} to get a test case (for the related
+ * set-identifer and test-identifier).
  * 
  * @author Adrian Wilke
  */
 public abstract class OpalTestCases {
 
 	protected static final String TEST_CASES_DIRECTORY = "/org/dice_research/opal/test_cases/sets";
-	protected static final String FILE_SEPARATOR = File.separator;
+	// Maybe has to be changed for IDE tests on M$-systems
+	protected static final String FILE_SEPARATOR = "/";
 
-	public static SortedSet<String> listSets() throws URISyntaxException, IOException {
+	/**
+	 * Lists available test sets.
+	 */
+	public static SortedSet<String> listTestSets() throws URISyntaxException, IOException {
 		URI uri = OpalTestCases.class.getResource(TEST_CASES_DIRECTORY).toURI();
-		// Handle 2 cases: JAR and IDE
-		// See https://stackoverflow.com/a/28057735
+		// Handle 2 cases: JAR and IDE, see https://stackoverflow.com/a/28057735
 		if (uri.getScheme().equals("jar")) {
 			try (FileSystem fileSystem = FileSystems.newFileSystem(uri, Collections.<String, Object>emptyMap())) {
 				// Called in this way to be able to close FileSystem afterwards
@@ -54,10 +55,12 @@ public abstract class OpalTestCases {
 		}
 	}
 
-	public static Map<String, String> listTests(String setId) throws URISyntaxException, IOException {
+	/**
+	 * Lists available test cases of a set.
+	 */
+	public static SortedSet<String> listTestCases(String setId) throws URISyntaxException, IOException {
 		URI uri = OpalTestCases.class.getResource(TEST_CASES_DIRECTORY + FILE_SEPARATOR + setId).toURI();
-		// Handle 2 cases: JAR and IDE
-		// See https://stackoverflow.com/a/28057735
+		// Handle 2 cases: JAR and IDE, see https://stackoverflow.com/a/28057735
 		SortedSet<String> filenames = new TreeSet<>();
 		if (uri.getScheme().equals("jar")) {
 			try (FileSystem fileSystem = FileSystems.newFileSystem(uri, Collections.<String, Object>emptyMap())) {
@@ -68,30 +71,34 @@ public abstract class OpalTestCases {
 			filenames = listFiles(Paths.get(uri));
 		}
 
-		// Collect test IDs and dataset URIs
-		Map<String, String> testIds = new HashMap<>();
-		String testId = null;
+		SortedSet<String> testIds = new TreeSet<>();
 		for (String filename : filenames) {
-			// Filenames are sorted, ttl before txt
 			if (filename.endsWith(".ttl")) {
-				testId = filename.substring(0, filename.length() - 4);
-			} else if (filename.endsWith(".txt")) {
-				String path = TEST_CASES_DIRECTORY + FILE_SEPARATOR + setId + FILE_SEPARATOR + filename;
-				testIds.put(testId, IOUtils
-						.toString(OpalTestCases.class.getResourceAsStream(path), StandardCharsets.UTF_8.name()).trim());
-				testId = null;
+				testIds.add(filename.substring(0, filename.length() - 4));
 			}
 		}
 		return testIds;
 	}
 
-	public static Model getModel(String setId, String testId) throws IOException {
-		try (InputStream inputStream = OpalTestCases.class.getResourceAsStream(
-				TEST_CASES_DIRECTORY + FILE_SEPARATOR + setId + FILE_SEPARATOR + testId + ".ttl")) {
+	/**
+	 * Returns a test-case for a test in a set.
+	 */
+	public static TestCase getTestCase(String setId, String testId) throws IOException {
+		TestCase testCase = new TestCase();
+		String id = TEST_CASES_DIRECTORY + FILE_SEPARATOR + setId + FILE_SEPARATOR + testId;
+
+		try (BufferedReader br = new BufferedReader(
+				new InputStreamReader(OpalTestCases.class.getResourceAsStream(id + ".txt")))) {
+			testCase.setDatasetUri(br.lines().collect(Collectors.joining(System.lineSeparator())));
+		}
+
+		try (InputStream inputStream = OpalTestCases.class.getResourceAsStream(id + ".ttl")) {
 			byte[] byteArray = new byte[inputStream.available()];
 			inputStream.read(byteArray);
-			return ModelSerialization.deserialize(byteArray);
+			testCase.setModel(ModelSerialization.deserialize(byteArray));
 		}
+
+		return testCase;
 	}
 
 	protected static SortedSet<String> listFiles(Path path) throws IOException {
@@ -112,19 +119,19 @@ public abstract class OpalTestCases {
 		return sets;
 	}
 
+	/**
+	 * Used to test loading of resources in jar file.
+	 */
 	public static void main(String[] args) throws Exception {
-		// Used to test resources in jar.
+		SortedSet<String> testSets = OpalTestCases.listTestSets();
+		System.out.println(" Sets: " + testSets);
 
-		SortedSet<String> testSets = OpalTestCases.listSets();
-		System.out.println("Sets: " + testSets);
+		SortedSet<String> testCases = OpalTestCases.listTestCases(testSets.first());
+		System.out.println(" Test-cases for " + testSets.first() + ": " + testCases);
 
-		Map<String, String> tests = OpalTestCases.listTests(testSets.first());
-		for (String testId : tests.keySet()) {
-			System.out.println("Test:    " + testId);
-			System.out.println("Dataset: " + tests.get(testId));
-		}
-
-		Model model = OpalTestCases.getModel(testSets.first(), tests.keySet().iterator().next());
-		System.out.println(model);
+		TestCase testCase = OpalTestCases.getTestCase(testSets.first(), testCases.first());
+		System.out.println(" Test case model: " + testCase.getModel().size());
+		System.out.println(" Test case dataset-URI: " + testCase.getDatasetUri());
 	}
+
 }

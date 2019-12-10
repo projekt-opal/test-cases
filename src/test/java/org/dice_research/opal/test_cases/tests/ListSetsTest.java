@@ -10,17 +10,9 @@ import org.junit.Test;
 
 public class ListSetsTest {
 
-	/**
-	 * Used for README.md
-	 */
-	SortedSet<String> listSets() throws URISyntaxException, IOException {
-		SortedSet<String> testSets = OpalTestCases.listSets();
-		return testSets;
-	}
-
 	@Test
 	public void test() throws URISyntaxException, IOException {
-		SortedSet<String> sets = listSets();
+		SortedSet<String> sets = OpalTestCases.listTestSets();
 		Assert.assertTrue(sets.contains("opal-2019-06-24"));
 	}
 
