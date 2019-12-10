@@ -1,5 +1,7 @@
 # OPAL JUnit test cases
 
+Note: If you need an additonal dataset, please create a [new issue](https://github.com/projekt-opal/test-cases/issues/new/choose).
+
 This component provides test cases. The single tests are separated into sets.
 
 
