@@ -54,15 +54,15 @@ public abstract class OpalTestCases {
 		}
 	}
 
-	public static Map<String, String> listTests(String set) throws URISyntaxException, IOException {
-		URI uri = OpalTestCases.class.getResource(TEST_CASES_DIRECTORY + FILE_SEPARATOR + set).toURI();
+	public static Map<String, String> listTests(String setId) throws URISyntaxException, IOException {
+		URI uri = OpalTestCases.class.getResource(TEST_CASES_DIRECTORY + FILE_SEPARATOR + setId).toURI();
 		// Handle 2 cases: JAR and IDE
 		// See https://stackoverflow.com/a/28057735
 		SortedSet<String> filenames = new TreeSet<>();
 		if (uri.getScheme().equals("jar")) {
 			try (FileSystem fileSystem = FileSystems.newFileSystem(uri, Collections.<String, Object>emptyMap())) {
 				// Called in this way to be able to close FileSystem afterwards
-				filenames = listFiles(fileSystem.getPath(TEST_CASES_DIRECTORY + FILE_SEPARATOR + set));
+				filenames = listFiles(fileSystem.getPath(TEST_CASES_DIRECTORY + FILE_SEPARATOR + setId));
 			}
 		} else {
 			filenames = listFiles(Paths.get(uri));
@@ -76,7 +76,7 @@ public abstract class OpalTestCases {
 			if (filename.endsWith(".ttl")) {
 				testId = filename.substring(0, filename.length() - 4);
 			} else if (filename.endsWith(".txt")) {
-				String path = TEST_CASES_DIRECTORY + FILE_SEPARATOR + set + FILE_SEPARATOR + filename;
+				String path = TEST_CASES_DIRECTORY + FILE_SEPARATOR + setId + FILE_SEPARATOR + filename;
 				testIds.put(testId, IOUtils
 						.toString(OpalTestCases.class.getResourceAsStream(path), StandardCharsets.UTF_8.name()).trim());
 				testId = null;
@@ -85,9 +85,9 @@ public abstract class OpalTestCases {
 		return testIds;
 	}
 
-	public static Model getModel(String set, String test) throws IOException {
-		try (InputStream inputStream = OpalTestCases.class
-				.getResourceAsStream(TEST_CASES_DIRECTORY + FILE_SEPARATOR + set + FILE_SEPARATOR + test + ".ttl")) {
+	public static Model getModel(String setId, String testId) throws IOException {
+		try (InputStream inputStream = OpalTestCases.class.getResourceAsStream(
+				TEST_CASES_DIRECTORY + FILE_SEPARATOR + setId + FILE_SEPARATOR + testId + ".ttl")) {
 			byte[] byteArray = new byte[inputStream.available()];
 			inputStream.read(byteArray);
 			return ModelSerialization.deserialize(byteArray);
