@@ -22,6 +22,9 @@ public class GetModelTest {
 	public void test() throws URISyntaxException, IOException {
 		Model model = getTestModel("opal-2019-06-24", "edp-corine-iceland");
 		Assert.assertTrue(!model.isEmpty());
+
+		model = getTestModel("opal-2019-06-24", "mcloud-moers-innenstadt");
+		Assert.assertTrue(!model.isEmpty());
 	}
 
 }

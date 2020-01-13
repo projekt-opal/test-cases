@@ -21,9 +21,14 @@ public class ListTestsTest {
 	@Test
 	public void test() throws URISyntaxException, IOException {
 		Map<String, String> tests = getSets("opal-2019-06-24");
+
 		Assert.assertTrue(tests.containsKey("edp-corine-iceland"));
 		Assert.assertTrue(tests.get("edp-corine-iceland").equals(
 				"http://projekt-opal.de/dataset/https___europeandataportal_eu_set_data__3dff988d_59d2_415d_b2da_818e8ef31117_"));
+
+		Assert.assertTrue(tests.containsKey("mcloud-moers-innenstadt"));
+		Assert.assertTrue(tests.get("mcloud-moers-innenstadt")
+				.equals("http://projekt-opal.de/dataset/_mcloudde_stadtmoersbersichtskartederinnenstadtvonmoers"));
 	}
 
 }
