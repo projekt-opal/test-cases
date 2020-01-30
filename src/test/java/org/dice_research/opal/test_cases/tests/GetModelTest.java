@@ -12,8 +12,13 @@ import org.junit.Test;
 public class GetModelTest {
 
 	@Test
-	public void testTtl() throws URISyntaxException, IOException {
+	public void test() throws URISyntaxException, IOException {
+
 		TestCase testCase = OpalTestCases.getTestCase("opal-2019-06-24", "edp-corine-iceland");
+		Assert.assertTrue(testCase.getDatasetUri() != null);
+		Assert.assertTrue(testCase.getModel() != null);
+
+		testCase = OpalTestCases.getTestCase("opal-2019-06-24", "mcloud-moers-innenstadt");
 		Assert.assertTrue(testCase.getDatasetUri() != null);
 		Assert.assertTrue(testCase.getModel() != null);
 	}
