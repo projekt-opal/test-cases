@@ -14,6 +14,7 @@ public class ListSetsTest {
 	public void test() throws URISyntaxException, IOException {
 		SortedSet<String> sets = OpalTestCases.listTestSets();
 		Assert.assertTrue(sets.contains("opal-2019-06-24"));
+		Assert.assertTrue(sets.contains("edp-2019-12-17"));
 	}
 
 }

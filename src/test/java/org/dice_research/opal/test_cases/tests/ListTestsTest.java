@@ -14,6 +14,9 @@ public class ListTestsTest {
 	public void test() throws URISyntaxException, IOException {
 		SortedSet<String> testCases = OpalTestCases.listTestCases("opal-2019-06-24");
 		Assert.assertTrue(testCases.contains("edp-corine-iceland"));
+
+		testCases = OpalTestCases.listTestCases("edp-2019-12-17");
+		Assert.assertTrue(testCases.contains("mittenwalde"));
 	}
 
 }

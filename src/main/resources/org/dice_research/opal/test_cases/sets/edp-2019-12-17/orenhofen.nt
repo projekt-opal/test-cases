@@ -1,0 +1,100 @@
+<https://europeandataportal.eu/set/data/9118fab1-565a-0002-1ddf-1a34b9a403fb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> .
+<https://europeandataportal.eu/set/data/9118fab1-565a-0002-1ddf-1a34b9a403fb> <http://purl.org/dc/terms/modified> "2018-04-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://europeandataportal.eu/set/data/9118fab1-565a-0002-1ddf-1a34b9a403fb> <http://purl.org/dc/terms/hasPart> <file:///usr/verticles/https%3A%2F%2Fkomserv4gdi.service24.rlp.de%2F5cf836af-e76c-aa0c-1ddf-1a34b9a403fb> .
+<https://europeandataportal.eu/set/data/9118fab1-565a-0002-1ddf-1a34b9a403fb> <http://purl.org/dc/terms/conformsTo> _:b7165419 .
+<https://europeandataportal.eu/set/data/9118fab1-565a-0002-1ddf-1a34b9a403fb> <http://purl.org/dc/terms/conformsTo> _:b7165420 .
+<https://europeandataportal.eu/set/data/9118fab1-565a-0002-1ddf-1a34b9a403fb> <http://purl.org/dc/terms/conformsTo> _:b7165421 .
+<https://europeandataportal.eu/set/data/9118fab1-565a-0002-1ddf-1a34b9a403fb> <http://purl.org/dc/terms/conformsTo> _:b7165422 .
+<https://europeandataportal.eu/set/data/9118fab1-565a-0002-1ddf-1a34b9a403fb> <http://purl.org/dc/terms/conformsTo> _:b7165423 .
+<https://europeandataportal.eu/set/data/9118fab1-565a-0002-1ddf-1a34b9a403fb> <http://purl.org/dc/terms/conformsTo> _:b7165424 .
+<https://europeandataportal.eu/set/data/9118fab1-565a-0002-1ddf-1a34b9a403fb> <http://purl.org/dc/terms/conformsTo> _:b7165425 .
+<https://europeandataportal.eu/set/data/9118fab1-565a-0002-1ddf-1a34b9a403fb> <http://purl.org/dc/terms/conformsTo> _:b7165426 .
+<https://europeandataportal.eu/set/data/9118fab1-565a-0002-1ddf-1a34b9a403fb> <http://purl.org/dc/terms/issued> "2018-04-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://europeandataportal.eu/set/data/9118fab1-565a-0002-1ddf-1a34b9a403fb> <http://www.w3.org/ns/dcat#distribution> <https://europeandataportal.eu/set/distribution/00b651a7-d441-4a74-bf79-5615c30b47de> .
+<https://europeandataportal.eu/set/data/9118fab1-565a-0002-1ddf-1a34b9a403fb> <http://www.w3.org/ns/dcat#keyword> "infoFeatureAccessService"@de .
+<https://europeandataportal.eu/set/data/9118fab1-565a-0002-1ddf-1a34b9a403fb> <http://www.w3.org/ns/dcat#keyword> "Bplan"@de .
+<https://europeandataportal.eu/set/data/9118fab1-565a-0002-1ddf-1a34b9a403fb> <http://www.w3.org/ns/dcat#keyword> "Bebauungsplan"@de .
+<https://europeandataportal.eu/set/data/9118fab1-565a-0002-1ddf-1a34b9a403fb> <http://www.w3.org/ns/dcat#keyword> "Bauleitplan"@de .
+<https://europeandataportal.eu/set/data/9118fab1-565a-0002-1ddf-1a34b9a403fb> <http://www.w3.org/ns/dcat#keyword> "inspireidentifiziert"@de .
+<https://europeandataportal.eu/set/data/9118fab1-565a-0002-1ddf-1a34b9a403fb> <http://www.w3.org/ns/dcat#keyword> "Orenhofen"@de .
+<https://europeandataportal.eu/set/data/9118fab1-565a-0002-1ddf-1a34b9a403fb> <http://www.w3.org/ns/dcat#theme> _:b7165427 .
+<https://europeandataportal.eu/set/data/9118fab1-565a-0002-1ddf-1a34b9a403fb> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> _:b7165428 .
+<https://europeandataportal.eu/set/data/9118fab1-565a-0002-1ddf-1a34b9a403fb> <http://www.w3.org/ns/prov#wasUsedBy> _:b7165429 .
+<https://europeandataportal.eu/set/data/9118fab1-565a-0002-1ddf-1a34b9a403fb> <http://www.w3.org/ns/prov#wasUsedBy> _:b7165430 .
+<https://europeandataportal.eu/set/data/9118fab1-565a-0002-1ddf-1a34b9a403fb> <http://www.w3.org/ns/prov#wasUsedBy> _:b7165431 .
+<https://europeandataportal.eu/set/data/9118fab1-565a-0002-1ddf-1a34b9a403fb> <http://www.w3.org/ns/prov#wasUsedBy> _:b7165432 .
+<https://europeandataportal.eu/set/data/9118fab1-565a-0002-1ddf-1a34b9a403fb> <http://www.w3.org/ns/prov#wasUsedBy> _:b7165433 .
+<https://europeandataportal.eu/set/data/9118fab1-565a-0002-1ddf-1a34b9a403fb> <http://www.w3.org/ns/prov#wasUsedBy> _:b7165434 .
+<https://europeandataportal.eu/set/data/9118fab1-565a-0002-1ddf-1a34b9a403fb> <http://www.w3.org/ns/prov#wasUsedBy> _:b7165435 .
+<https://europeandataportal.eu/set/data/9118fab1-565a-0002-1ddf-1a34b9a403fb> <http://www.w3.org/ns/prov#wasUsedBy> _:b7165436 .
+<https://europeandataportal.eu/set/data/9118fab1-565a-0002-1ddf-1a34b9a403fb> <http://purl.org/dc/terms/type> <http://inspire.ec.europa.eu/metadata-codelist/SpatialDataServiceType/download> .
+<https://europeandataportal.eu/set/data/9118fab1-565a-0002-1ddf-1a34b9a403fb> <http://purl.org/dc/terms/type> <http://inspire.ec.europa.eu/metadata-codelist/ResourceType/services> .
+<https://europeandataportal.eu/set/data/9118fab1-565a-0002-1ddf-1a34b9a403fb> <http://purl.org/dc/terms/description> "Beschreibung des INSPIRE Download Service (predefined Atom): Bebauungsplan Auf Baul\" 1. Änderung der Ortsgemeinde Orenhofen - Der/die Link(s) für das Herunterladen der Datensätze wird/werden dynamisch aus Get Map Aufrufen eines WMS Interfaces generiert"@de .
+<https://europeandataportal.eu/set/data/9118fab1-565a-0002-1ddf-1a34b9a403fb> <http://purl.org/dc/terms/publisher> _:b7165437 .
+<https://europeandataportal.eu/set/data/9118fab1-565a-0002-1ddf-1a34b9a403fb> <http://purl.org/dc/terms/spatial> _:b7165438 .
+<https://europeandataportal.eu/set/data/9118fab1-565a-0002-1ddf-1a34b9a403fb> <http://purl.org/dc/terms/title> "INSPIRE Download Service (predefined ATOM) für Datensatz Auf Baul 1. Änderung"@de .
+_:b7165419 <http://purl.org/dc/terms/issued> "2010-12-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:b7165419 <http://purl.org/dc/terms/title> "VERORDNUNG (EG) Nr. 1089/2010 DER KOMMISSION vom 23. November 2010 zur Durchführung der Richtlinie 2007/2/EG des Europäischen Parlaments und des Rates hinsichtlich der Interoperabilität von Geodatensätzen und -diensten"@de .
+_:b7165420 <http://purl.org/dc/terms/issued> "2014-12-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:b7165420 <http://purl.org/dc/terms/title> "VERORDNUNG (EU) Nr. 1312/2014 DER KOMMISSION vom 10. Dezember 2014 zur Änderung der Verordnung (EU) Nr. 1089/2010 zur Durchführung der Richtlinie 2007/2/EG des Europäischen Parlaments und des Rates hinsichtlich der Interoperabilität von Geodatendiensten"@de .
+_:b7165421 <http://purl.org/dc/terms/issued> "2013-12-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:b7165421 <http://purl.org/dc/terms/title> "VERORDNUNG (EU) Nr. 1253/2013 DER KOMMISSION vom 21. Oktober 2013 zur Änderung der Verordnung (EU) Nr. 1089/2010 zur Durchführung der Richtlinie 2007/2/EG hinsichtlich der Interoperabilität von Geodatensätzen und -diensten"@de .
+_:b7165422 <http://purl.org/dc/terms/issued> "2010-12-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:b7165422 <http://purl.org/dc/terms/title> "VERORDNUNG (EU) Nr. 1088/2010 DER KOMMISSION vom 23. November 2010 zur Änderung der Verordnung (EG) Nr. 976/2009 hinsichtlich Downloaddiensten und Transformationsdiensten"@de .
+_:b7165423 <http://purl.org/dc/terms/issued> "2011-02-05"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:b7165423 <http://purl.org/dc/terms/title> "VERORDNUNG (EU) Nr. 102/2011 DER KOMMISSION vom 4. Februar 2011 zur Änderung der Verordnung (EU) Nr. 1089/2010 zur Durchführung der Richtlinie 2007/2/EG des Europäischen Parlaments und des Rates hinsichtlich der Interoperabilität von Geodatensätzen und -diensten"@de .
+_:b7165424 <http://purl.org/dc/terms/issued> "2009-10-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:b7165424 <http://purl.org/dc/terms/title> "VERORDNUNG (EG) Nr. 976/2009 DER KOMMISSION  vom 19. Oktober 2009 zur Durchführung der Richtlinie 2007/2/EG des Europäischen Parlaments und des Rates hinsichtlich der Netzdienste"@de .
+_:b7165425 <http://purl.org/dc/terms/issued> "2008-12-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:b7165425 <http://purl.org/dc/terms/title> "VERORDNUNG (EG) Nr. 1205/2008 DER KOMMISSION vom 3. Dezember 2008 zur Durchführung der Richtlinie 2007/2/EG des Europäischen Parlaments und des Rates hinsichtlich Metadaten"@de .
+_:b7165426 <http://purl.org/dc/terms/issued> "2014-12-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:b7165426 <http://purl.org/dc/terms/title> "VERORDNUNG (EU) Nr. 1311/2014 DER KOMMISSION vom 10. Dezember 2014 zur Änderung der Verordnung (EG) Nr. 976/2009 hinsichtlich der Definition des Begriffs INSPIRE-Metadatenelement"@de .
+<https://europeandataportal.eu/set/distribution/00b651a7-d441-4a74-bf79-5615c30b47de> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Distribution> .
+<https://europeandataportal.eu/set/distribution/00b651a7-d441-4a74-bf79-5615c30b47de> <http://purl.org/dc/terms/format> _:b7165439 .
+<https://europeandataportal.eu/set/distribution/00b651a7-d441-4a74-bf79-5615c30b47de> <http://purl.org/dc/terms/license> _:b7165440 .
+<https://europeandataportal.eu/set/distribution/00b651a7-d441-4a74-bf79-5615c30b47de> <http://purl.org/dc/terms/rights> _:b7165441 .
+<https://europeandataportal.eu/set/distribution/00b651a7-d441-4a74-bf79-5615c30b47de> <http://purl.org/dc/terms/rights> _:b7165442 .
+<https://europeandataportal.eu/set/distribution/00b651a7-d441-4a74-bf79-5615c30b47de> <http://www.w3.org/ns/dcat#accessURL> <https://www.geoportal.rlp.de/mapbender/php/mod_inspireDownloadFeed.php?id=5cf836af-e76c-aa0c-1ddf-1a34b9a403fb&type=SERVICE&generateFrom=wmslayer&layerid=61522> .
+<https://europeandataportal.eu/set/distribution/00b651a7-d441-4a74-bf79-5615c30b47de> <http://purl.org/dc/terms/title> "download"@en .
+<https://europeandataportal.eu/set/distribution/00b651a7-d441-4a74-bf79-5615c30b47de> <http://purl.org/dc/terms/identifier> "download@en" .
+_:b7165427 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+_:b7165427 <http://www.w3.org/2004/02/skos/core#prefLabel> "2f23ed6e-0186-4c2b-8380-748389036509" .
+_:b7165427 <http://www.w3.org/2004/02/skos/core#inScheme> _:b7165454 .
+_:b7165428 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#CatalogRecord> .
+_:b7165428 <http://purl.org/dc/terms/modified> "2019-12-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:b7165428 <http://www.w3.org/ns/dcat#contactPoint> _:b7165443 .
+_:b7165428 <http://www.w3.org/2011/content#characterEncoding> "UTF-8" .
+_:b7165428 <http://purl.org/dc/terms/language> <http://publications.europa.eu/resource/authority/language/GER> .
+_:b7165428 <http://purl.org/dc/terms/identifier> "9118fab1-565a-0002-1ddf-1a34b9a403fb" .
+_:b7165428 <http://purl.org/dc/terms/source> _:b7165444 .
+_:b7165429 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Activity> .
+_:b7165429 <http://www.w3.org/ns/prov#generated> _:b7165461 .
+_:b7165429 <http://www.w3.org/ns/prov#qualifiedAssociation> _:b7165462 .
+_:b7165430 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Activity> .
+_:b7165430 <http://www.w3.org/ns/prov#generated> _:b7165452 .
+_:b7165430 <http://www.w3.org/ns/prov#qualifiedAssociation> _:b7165453 .
+_:b7165431 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Activity> .
+_:b7165431 <http://www.w3.org/ns/prov#generated> _:b7165459 .
+_:b7165431 <http://www.w3.org/ns/prov#qualifiedAssociation> _:b7165460 .
+_:b7165432 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Activity> .
+_:b7165432 <http://www.w3.org/ns/prov#generated> _:b7165455 .
+_:b7165432 <http://www.w3.org/ns/prov#qualifiedAssociation> _:b7165456 .
+_:b7165433 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Activity> .
+_:b7165433 <http://www.w3.org/ns/prov#generated> _:b7165457 .
+_:b7165433 <http://www.w3.org/ns/prov#qualifiedAssociation> _:b7165458 .
+_:b7165434 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Activity> .
+_:b7165434 <http://www.w3.org/ns/prov#generated> _:b7165446 .
+_:b7165434 <http://www.w3.org/ns/prov#qualifiedAssociation> _:b7165447 .
+_:b7165435 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Activity> .
+_:b7165435 <http://www.w3.org/ns/prov#generated> _:b7165450 .
+_:b7165435 <http://www.w3.org/ns/prov#qualifiedAssociation> _:b7165451 .
+_:b7165436 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Activity> .
+_:b7165436 <http://www.w3.org/ns/prov#generated> _:b7165448 .
+_:b7165436 <http://www.w3.org/ns/prov#qualifiedAssociation> _:b7165449 .
+_:b7165437 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+_:b7165437 <http://www.w3.org/ns/locn#address> _:b7165445 .
+_:b7165437 <http://xmlns.com/foaf/0.1/mbox> <mailto:poststelle@vermkv.rlp.de> .
+_:b7165437 <http://xmlns.com/foaf/0.1/name> "LVermGeo im Auftrag von Orenhofen" .
+_:b7165438 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/Location> .
+_:b7165438 <http://www.w3.org/ns/locn#geometry> "<gml:Envelope srsName=\"http://www.opengis.net/def/EPSG/0/4326\"><gml:lowerCorner>49.8955 6.64382</gml:lowerCorner><gml:upperCorner>49.9 6.6634</gml:upperCorner></gml:Envelope>"^^<http://www.opengis.net/ont/geosparql#gmlLiteral> .
+_:b7165438 <http://www.w3.org/ns/locn#geometry> "POLYGON((6.64382 49.9,6.6634 49.9,6.6634 49.8955,6.64382 49.8955,6.64382 49.9))"^^<http://www.openlinksw.com/schemas/virtrdf#Geometry> .

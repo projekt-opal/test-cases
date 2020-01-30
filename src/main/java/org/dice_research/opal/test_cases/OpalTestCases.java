@@ -13,6 +13,8 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.Collections;
 import java.util.Iterator;
+import java.util.LinkedList;
+import java.util.List;
 import java.util.SortedSet;
 import java.util.TreeSet;
 import java.util.stream.Collectors;
@@ -75,6 +77,8 @@ public abstract class OpalTestCases {
 		for (String filename : filenames) {
 			if (filename.endsWith(".ttl")) {
 				testIds.add(filename.substring(0, filename.length() - 4));
+			} else if (filename.endsWith(".nt")) {
+				testIds.add(filename.substring(0, filename.length() - 3));
 			}
 		}
 		return testIds;
@@ -92,13 +96,37 @@ public abstract class OpalTestCases {
 			testCase.setDatasetUri(br.lines().collect(Collectors.joining(System.lineSeparator())));
 		}
 
+		// TTL
 		try (InputStream inputStream = OpalTestCases.class.getResourceAsStream(id + ".ttl")) {
-			byte[] byteArray = new byte[inputStream.available()];
-			inputStream.read(byteArray);
-			testCase.setModel(ModelSerialization.deserialize(byteArray));
+			if (inputStream != null) {
+				byte[] byteArray = new byte[inputStream.available()];
+				inputStream.read(byteArray);
+				testCase.setModel(ModelSerialization.deserialize(byteArray));
+			}
+		}
+
+		// NT
+		if (testCase.getModel() == null) {
+			try (InputStream inputStream = OpalTestCases.class.getResourceAsStream(id + ".nt")) {
+				if (inputStream != null) {
+					byte[] byteArray = new byte[inputStream.available()];
+					inputStream.read(byteArray);
+					testCase.setModel(ModelSerialization.deserialize(byteArray, null, "N-TRIPLES"));
+				}
+			}
 		}
 
 		return testCase;
+	}
+
+	public static List<TestCase> getAllTestCases() throws URISyntaxException, IOException {
+		List<TestCase> testCases = new LinkedList<>();
+		for (String testSetId : listTestSets()) {
+			for (String testCaseId : listTestCases(testSetId)) {
+				testCases.add(getTestCase(testSetId, testCaseId));
+			}
+		}
+		return testCases;
 	}
 
 	protected static SortedSet<String> listFiles(Path path) throws IOException {

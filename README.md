@@ -1,9 +1,17 @@
 # OPAL JUnit test cases
 
-Note: If you need an additonal dataset, please create a [new issue](https://github.com/projekt-opal/test-cases/issues/new/choose).
-Currently, you'll need to specify a dataset from the [OpalGraph 2019-06-24](https://hobbitdata.informatik.uni-leipzig.de/OPAL/OpalGraph/2019-06-24/).
-
 This component provides test cases. The single tests are separated into sets. Take a view at the [available test cases](src/main/resources/org/dice_research/opal/test_cases/sets/).
+
+
+## Test case sources
+
+-  [OpalGraph 2019-06-24](https://hobbitdata.informatik.uni-leipzig.de/OPAL/OpalGraph/2019-06-24/)
+-  [EDP 2019-12-17](https://hobbitdata.informatik.uni-leipzig.de/OPAL/SourceGraphs/edp-2019-12-17/) (data.10.nt in edp-de-2019-12-17.tar.gz)
+
+
+## Request for additional test case
+
+If you need an additional dataset, please create a [new issue](https://github.com/projekt-opal/test-cases/issues/new/choose).
 
 
 ## Examples

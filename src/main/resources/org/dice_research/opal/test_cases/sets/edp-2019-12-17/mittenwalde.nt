@@ -1,0 +1,40 @@
+<https://europeandataportal.eu/set/data/b9a76536-d813-11de-9f42-0008a11b3997> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> .
+<https://europeandataportal.eu/set/data/b9a76536-d813-11de-9f42-0008a11b3997> <http://www.w3.org/ns/dcat#contactPoint> _:b7163706 .
+<https://europeandataportal.eu/set/data/b9a76536-d813-11de-9f42-0008a11b3997> <http://www.w3.org/ns/dcat#distribution> <https://europeandataportal.eu/set/distribution/1007b442-bf33-407f-ab74-534ca67d79e3> .
+<https://europeandataportal.eu/set/data/b9a76536-d813-11de-9f42-0008a11b3997> <http://www.w3.org/ns/dcat#keyword> "infoMapAccessService"@de .
+<https://europeandataportal.eu/set/data/b9a76536-d813-11de-9f42-0008a11b3997> <http://www.w3.org/ns/dcat#keyword> "Mittenwalde"@de .
+<https://europeandataportal.eu/set/data/b9a76536-d813-11de-9f42-0008a11b3997> <http://www.w3.org/ns/dcat#theme> _:b7163707 .
+<https://europeandataportal.eu/set/data/b9a76536-d813-11de-9f42-0008a11b3997> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> _:b7163708 .
+<https://europeandataportal.eu/set/data/b9a76536-d813-11de-9f42-0008a11b3997> <http://purl.org/dc/terms/type> <http://inspire.ec.europa.eu/metadata-codelist/ResourceType/services> .
+<https://europeandataportal.eu/set/data/b9a76536-d813-11de-9f42-0008a11b3997> <http://purl.org/dc/terms/type> <http://inspire.ec.europa.eu/metadata-codelist/SpatialDataServiceType/view> .
+<https://europeandataportal.eu/set/data/b9a76536-d813-11de-9f42-0008a11b3997> <http://purl.org/dc/terms/description> "Öffentlicher Personennahverkehr in der Stadt Mittenwalde"@de .
+<https://europeandataportal.eu/set/data/b9a76536-d813-11de-9f42-0008a11b3997> <http://purl.org/dc/terms/spatial> _:b7163709 .
+<https://europeandataportal.eu/set/data/b9a76536-d813-11de-9f42-0008a11b3997> <http://purl.org/dc/terms/title> "ÖPNV der Stadt Mittenwalde"@de .
+<https://europeandataportal.eu/set/data/b9a76536-d813-11de-9f42-0008a11b3997> <http://purl.org/dc/terms/accrualPeriodicity> <http://inspire.ec.europa.eu/metadata-codelist/MaintenanceFrequencyCode/asNeeded> .
+<https://europeandataportal.eu/set/data/b9a76536-d813-11de-9f42-0008a11b3997> <http://purl.org/dc/terms/identifier> "GDI-Mittenwalde#b9a76536-d813-11de-9f42-0008a11b3997" .
+_:b7163706 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Individual> .
+_:b7163706 <http://www.w3.org/2006/vcard/ns#hasEmail> <mailto:gis@mittenwalde.de> .
+_:b7163706 <http://www.w3.org/2006/vcard/ns#fn> "Herr Kellermann" .
+_:b7163706 <http://www.w3.org/2006/vcard/ns#hasAddress> _:b7163715 .
+_:b7163706 <http://www.w3.org/2006/vcard/ns#organization-name> "Stadt Mittenwalde" .
+_:b7163706 <http://www.w3.org/2006/vcard/ns#hasTelephone> <tel:+033764%20%2F%20898%2032> .
+<https://europeandataportal.eu/set/distribution/1007b442-bf33-407f-ab74-534ca67d79e3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Distribution> .
+<https://europeandataportal.eu/set/distribution/1007b442-bf33-407f-ab74-534ca67d79e3> <http://purl.org/dc/terms/format> _:b7163710 .
+<https://europeandataportal.eu/set/distribution/1007b442-bf33-407f-ab74-534ca67d79e3> <http://purl.org/dc/terms/license> _:b7163711 .
+<https://europeandataportal.eu/set/distribution/1007b442-bf33-407f-ab74-534ca67d79e3> <http://purl.org/dc/terms/license> _:b7163712 .
+<https://europeandataportal.eu/set/distribution/1007b442-bf33-407f-ab74-534ca67d79e3> <http://purl.org/dc/terms/rights> _:b7163713 .
+<https://europeandataportal.eu/set/distribution/1007b442-bf33-407f-ab74-534ca67d79e3> <http://www.w3.org/ns/dcat#accessURL> <http://www.gdi-server.de/services/wms.php?wms=mittenwalde_oepnv> .
+<https://europeandataportal.eu/set/distribution/1007b442-bf33-407f-ab74-534ca67d79e3> <http://purl.org/dc/terms/title> "view"@en .
+<https://europeandataportal.eu/set/distribution/1007b442-bf33-407f-ab74-534ca67d79e3> <http://purl.org/dc/terms/identifier> _:b7163714 .
+_:b7163707 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+_:b7163707 <http://www.w3.org/2004/02/skos/core#prefLabel> "Verkehr" .
+_:b7163707 <http://www.w3.org/2004/02/skos/core#inScheme> _:b7163718 .
+_:b7163708 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#CatalogRecord> .
+_:b7163708 <http://www.w3.org/ns/dcat#contactPoint> _:b7163716 .
+_:b7163708 <http://www.w3.org/2011/content#characterEncoding> "UTF-8" .
+_:b7163708 <http://purl.org/dc/terms/language> <http://publications.europa.eu/resource/authority/language/GER> .
+_:b7163708 <http://purl.org/dc/terms/identifier> "b9a76536-d813-11de-9f42-0008a11b3997" .
+_:b7163708 <http://purl.org/dc/terms/source> _:b7163717 .
+_:b7163709 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/Location> .
+_:b7163709 <http://www.w3.org/ns/locn#geometry> "POLYGON((13.4294 52.3424,13.6412 52.3424,13.6412 52.1331,13.4294 52.1331,13.4294 52.3424))"^^<http://www.openlinksw.com/schemas/virtrdf#Geometry> .
+_:b7163709 <http://www.w3.org/ns/locn#geometry> "<gml:Envelope srsName=\"http://www.opengis.net/def/EPSG/0/4326\"><gml:lowerCorner>52.1331 13.4294</gml:lowerCorner><gml:upperCorner>52.3424 13.6412</gml:upperCorner></gml:Envelope>"^^<http://www.opengis.net/ont/geosparql#gmlLiteral> .
