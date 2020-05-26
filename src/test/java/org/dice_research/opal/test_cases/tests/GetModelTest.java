@@ -35,7 +35,7 @@ public class GetModelTest {
 		List<TestCase> testCases = OpalTestCases.getAllTestCases();
 		for (TestCase testCase : testCases) {
 			Assert.assertTrue(testCase.getDatasetUri() != null);
-			Assert.assertFalse(testCase.getDatasetUri().isBlank());
+			Assert.assertFalse(testCase.getDatasetUri().trim().isEmpty());
 			Assert.assertTrue(testCase.getModel() != null);
 			Assert.assertTrue(testCase.getModel().size() > 0);
 		}
