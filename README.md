@@ -7,6 +7,7 @@ This component provides test cases. The single tests are separated into sets. Ta
 
 -  [OpalGraph 2019-06-24](https://hobbitdata.informatik.uni-leipzig.de/OPAL/OpalGraph/2019-06-24/)
 -  [EDP 2019-12-17](https://hobbitdata.informatik.uni-leipzig.de/OPAL/SourceGraphs/edp-2019-12-17/) (data.10.nt in edp-de-2019-12-17.tar.gz)
+-  [EDP 2020-06-06](https://hobbitdata.informatik.uni-leipzig.de/OPAL/processed_datasets/europeandataportal/) (edp_06-06-2020.tar.gz)
 
 
 ## Request for additional test case

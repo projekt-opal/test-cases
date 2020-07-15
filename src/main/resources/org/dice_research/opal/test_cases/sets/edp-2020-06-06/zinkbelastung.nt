@@ -1,0 +1,113 @@
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://www.w3.org/ns/dqv#hasQualityMeasurement> <0c8e6602e3506c1245fdb5025cd7d3fb> .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://purl.org/dc/terms/description> "\"Zinkforurening af havejord i mg/kg\n\"@da-t-de-t0-mtec" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://www.w3.org/ns/dcat#keyword> "\"bodenbelastung\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://purl.org/dc/terms/title> "\"Kortos sluoksnio cinko įkrova sodo dirvožemyje Šiaurės Reine-Vestfalijoje\n\"@lt-t-de-t0-mtec" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://purl.org/dc/terms/description> "\"Aiamulla tsingiga saastumine (mg/kg)\n\"@et-t-de-t0-mtec" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://purl.org/dc/terms/title> "\"Kartonažna obremenitev na vrtnih tleh v Severnem Porenju-Vestfaliji\n\"@sl-t-de-t0-mtec" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://purl.org/dc/terms/title> "\"Натоварване на карслой — цинк върху градинските почви в Северен Рейн-Вестфалия\n\"@bg-t-de-t0-mtec" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://purl.org/dc/terms/description> "\"Contaminarea zincului în solurile de grădină, în mg/kg\n\"@ro-t-de-t0-mtec" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://www.w3.org/ns/dcat#keyword> "\"schwermetall\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://www.w3.org/ns/dcat#keyword> "\"zinkgehalt\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://purl.org/dc/terms/title> "\"Zink-lastens zink-belastning i havejorden i Nordrhein-Westfalen\n\"@da-t-de-t0-mtec" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://purl.org/dc/terms/title> "\"Sirds slāņa cinka slodze uz dārza augsnēm Ziemeļreinā-Vestfālenē\n\"@lv-t-de-t0-mtec" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://www.w3.org/ns/dcat#keyword> "\"blei\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://purl.org/dc/terms/description> "\"Teneur en zinc des sols jardiniers en mg/kg\n\"@fr-t-de-t0-mtec" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://www.w3.org/ns/dcat#keyword> "\"lanuv-kartenlayer\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://purl.org/dc/terms/modified> "\"2008-01-01T00:00:00\"^^http://www.w3.org/2001/XMLSchema#dateTime" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://www.w3.org/ns/dcat#keyword> "\"boden\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://www.w3.org/ns/dqv#hasQualityMeasurement> <26aa74e1655aa229e3b6c2de7780be2e> .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://www.w3.org/ns/dcat#keyword> "\"opendata\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://www.w3.org/ns/dcat#keyword> "\"zink\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://www.w3.org/ns/dcat#keyword> "\"soil\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://www.w3.org/ns/dcat#keyword> "\"bodenschädigung\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://purl.org/dc/terms/description> "\"Kerti talajok cinkszennyezése mg/kg-ban\n\"@hu-t-de-t0-mtec" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://www.w3.org/ns/dqv#hasQualityAnnotation> <538b0b3c413d73e4958775e80b60ab51> .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://purl.org/dc/terms/description> "\"Μόλυνση του εδάφους από ψευδάργυρο σε mg/kg\n\"@el-t-de-t0-mtec" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://www.w3.org/ns/dcat#keyword> "\"inspireidentifiziert\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://www.w3.org/ns/dcat#keyword> "\"fachinformationssystem\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://purl.org/dc/terms/description> "\"Zinc contamination of garden soils in mg/kg\n\"@en-t-de-t0-mtec" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://purl.org/dc/terms/title> "\"It-tagħbija fuq il-ħamrija fis-saff taż-żingu fuq ħamrija tal-ġnien fin-North Rhine-Westphalia\n\"@mt-t-de-t0-mtec" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://purl.org/dc/terms/description> "\"Kontaminácia záhradných pôd zinku v mg/kg\n\"@sk-t-de-t0-mtec" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://www.w3.org/ns/dcat#keyword> "\"oberboden\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://www.w3.org/ns/dqv#hasQualityMeasurement> <ec1d0a86ced8cfc7a930a6aae06dea80> .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://www.w3.org/ns/dcat#keyword> "\"fis\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://purl.org/dc/terms/title> "\"Carga de zinc en capa de cartón en suelos de jardín de Renania del Norte-Westfalia\n\"@es-t-de-t0-mtec" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://www.w3.org/ns/dcat#keyword> "\"regional\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://dcat-ap.de/def/dcatde/maintainer> <dd83c33adbf31876b8e510658b6542de> .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://www.w3.org/ns/dcat#keyword> "\"zinkbelastung\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://purl.org/dc/terms/title> "\"Hladina zinku ve vrstvě karty na zahradních půdách v Severním Porýní-Vestfálsku\n\"@cs-t-de-t0-mtec" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://purl.org/dc/terms/description> "\"Puutarhamaan sinkkikontaminaatio mg/kg\n\"@fi-t-de-t0-mtec" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://purl.org/dc/terms/description> "\"Cinka piesārņojums dārza augsnēs mg/kg\n\"@lv-t-de-t0-mtec" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://purl.org/dc/terms/description> "\"Sinkforurensning av gruvejord i mg/kg\n\"@no-t-de-t0-mtec" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://www.w3.org/ns/dcat#keyword> "\"schwermetallbelastung\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://purl.org/dc/terms/title> "\"Korttikerroksen sinkkikuormitus puutarhamaalla Nordrhein-Westfalenissa\n\"@fi-t-de-t0-mtec" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://www.w3.org/ns/dqv#hasQualityMeasurement> <339ca0bcaea423772c04d3b3d1aecb10> .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://purl.org/dc/terms/description> "\"Skażenie cynku glebami ogrodowymi w mg/kg\n\"@pl-t-de-t0-mtec" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://purl.org/dc/terms/title> "\"Zinku zaťaženie záhradných pôd v Severnom Porýní-Vestfálsku\n\"@sk-t-de-t0-mtec" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://www.w3.org/ns/dqv#hasQualityMeasurement> <e7b3ecdd4d1e9c2840888a42345a1ef4> .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://www.w3.org/ns/dcat#keyword> "\"stobo\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://purl.org/dc/terms/title> "\"Poziom ładunku cynkowego na karcie ogrodowej w Nadrenii Północnej-Westfalii\n\"@pl-t-de-t0-mtec" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://purl.org/dc/terms/title> "\"Kártyaréteg cinkterhelése a kerti talajokon Észak-Rajna-Vesztfáliában\n\"@hu-t-de-t0-mtec" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://purl.org/dc/terms/title> "\"Carga de zinco em camada de cartão em solos de jardim da Renânia do Norte-Vestefália\n\"@pt-t-de-t0-mtec" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://www.w3.org/ns/dcat#keyword> "\"grünland\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://purl.org/dc/terms/accrualPeriodicity> <http://inspire.ec.europa.eu/metadata-codelist/MaintenanceFrequencyCode/asNeeded> .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://purl.org/dc/terms/title> "\"Opterećenje cinkom kartičnog sloja na vrtnim tlima u Sjevernoj Rajni-Vestfaliji\n\"@hr-t-de-t0-mtec" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://purl.org/dc/terms/description> "\"Contaminação por zinco dos solos de jardim, em mg/kg\n\"@pt-t-de-t0-mtec" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://purl.org/dc/terms/description> "\"Zinkbesmetting van tuinbodems in mg/kg\n\"@nl-t-de-t0-mtec" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://www.w3.org/ns/dqv#hasQualityMeasurement> <8ef5661998ef73fc668fc417e6fd7d80> .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://www.w3.org/ns/dqv#hasQualityMeasurement> <0c874f08468dd2c518613fb21b387df7> .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://purl.org/dc/terms/description> "\"Zinková kontaminace zahradních půd v mg/kg\n\"@cs-t-de-t0-mtec" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://purl.org/dc/terms/title> "\"Ualach since ciseal cártaí ar ithreacha gairdín i Rhine-Westphalia Thuaidh\n\"@ga-t-de-t0-mtec" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://purl.org/dc/terms/publisher> <https://ckan.www.open.nrw.de/organization/bf389131-4b9f-4756-8163-958d41ce49de> .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://www.w3.org/ns/dcat#keyword> "\"schwermetallgehalt\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://purl.org/dc/terms/description> "\"Contaminación de zinc de suelos de jardinería en mg/kg\n\"@es-t-de-t0-mtec" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://purl.org/dc/terms/description> "\"Éilliú since ithreacha gairdín in mg/kg\n\"@ga-t-de-t0-mtec" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://www.w3.org/ns/dcat#distribution> <https://europeandataportal.eu/set/distribution/cf557db9-4021-4017-a92a-b707a6d020ca> .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://purl.org/dc/terms/description> "\"Sodo dirvožemio užteršimas cinku (mg/kg)\n\"@lt-t-de-t0-mtec" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://purl.org/dc/terms/title> "\"Nordrhein-Westfaleni liidumaa aiamuldade tsingisisaldus kaardikihis\n\"@et-t-de-t0-mtec" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://www.w3.org/ns/dqv#hasQualityMeasurement> <32900285d49e7cfa796375f21a6458ab> .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://purl.org/dc/terms/title> "\"Zinkbaserad zinkbelastning på trädgårdsjordar i Nordrhein-Westfalen\n\"@sv-t-de-t0-mtec" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://www.w3.org/ns/dcat#theme> <http://publications.europa.eu/resource/authority/data-theme/ENVI> .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://purl.org/dc/terms/description> "\"Contaminazione dello zinco nei terreni da giardino in mg/kg\n\"@it-t-de-t0-mtec" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://www.w3.org/ns/dcat#contactPoint> <a58ea911dd14b630ed630d623c8300c0> .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://purl.org/dc/terms/identifier> "\"02A97C64-7803-420F-BE2C-5E2478926CBA\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://purl.org/dc/terms/title> "\"Kartenlayer Zinkbelastung der Gartenböden NRW\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://purl.org/dc/terms/type> "\"http://inspire.ec.europa.eu/metadata-codelist/ResourceType/dataset\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://www.w3.org/ns/dqv#hasQualityMeasurement> <dc65aa3cb4d554c67cef55fd93c23da7> .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://purl.org/dc/terms/description> "\"Zinkbelastung der Gartenböden in mg pro kg\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://www.w3.org/ns/adms#identifier> "\"02A97C64-7803-420F-BE2C-5E2478926CBA\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://purl.org/dc/terms/language> <http://publications.europa.eu/resource/authority/language/GER> .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://www.w3.org/ns/dqv#hasQualityMeasurement> <67c9f6496ed175dc426a6dba508e92fd> .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://www.w3.org/ns/dqv#hasQualityMeasurement> <ed4713666e969367f65256c7a55a91c4> .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://purl.org/dc/terms/spatial> <9e4aad4d923ea18bc00429fe2b33c68a> .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://purl.org/dc/terms/description> "\"Замърсяване с цинк на градинските почви в mg/kg\n\"@bg-t-de-t0-mtec" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://dcat-ap.de/def/dcatde/contributorID> <http://dcat-ap.de/def/contributors/openNRW> .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://purl.org/dc/terms/title> "\"Încărcătura de zinc de la nivelul cardului pe solurile de grădină din landul Renania de Nord-Westfalia\n\"@ro-t-de-t0-mtec" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://purl.org/dc/terms/title> "\"Kortsinkbelastning på steinjord i nord\n\"@no-t-de-t0-mtec" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://purl.org/dc/terms/description> "\"Kontaminazzjoni taż-żingu ta’ ħamrija tal-ġnien f’mg/kg\n\"@mt-t-de-t0-mtec" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://www.w3.org/ns/dqv#hasQualityAnnotation> <4b1e69de660e017bc25b049106a76d98> .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://purl.org/dc/terms/description> "\"Zinkkontaminering av trädgårdsjordar i mg/kg\n\"@sv-t-de-t0-mtec" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://purl.org/dc/terms/title> "\"Lecteur de cartes Tension de zinc dans les sols jardiniers NRW\n\"@fr-t-de-t0-mtec" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://purl.org/dc/terms/accessRights> "\"Nutzungsbedingungen: Der Datensatz wird ab 2016 als OpenData unter der \\\"Datenlizenz Deutschland Namensnennung 2.0\\\", siehe https://www.govdata.de/dl-de/by-2-0 zur Verfügung gestellt. \"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://purl.org/dc/terms/title> "\"Card layer zinc load on garden soils in North Rhine-Westphalia\n\"@en-t-de-t0-mtec" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://purl.org/dc/terms/description> "\"Kontaminacija z vrtna tla v mg/kg\n\"@sl-t-de-t0-mtec" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://purl.org/dc/terms/title> "\"Φορτίο ψευδαργύρου στο στρώμα της κάρτας σε εδάφη κήπου στη Βόρεια Ρηνανία-Βεστφαλία\n\"@el-t-de-t0-mtec" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://www.w3.org/ns/dcat#keyword> "\"cadmium\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://purl.org/dc/terms/title> "\"Strato di cartone per zinco relativo a suoli florovivaistici nella Renania settentrionale-Vestfalia\n\"@it-t-de-t0-mtec" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://www.w3.org/ns/dcat#keyword> "\"karte\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://purl.org/dc/terms/title> "\"De zinkbelasting van de kaartlaag op tuinbodems in Noord-Rijnland-Westfalen\n\"@nl-t-de-t0-mtec" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://purl.org/dc/terms/issued> "\"2008-01-01T00:00:00\"^^http://www.w3.org/2001/XMLSchema#dateTime" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://www.w3.org/ns/dcat#keyword> "\"kartenlayer\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://purl.org/dc/terms/description> "\"Onečišćenje vrtnih tala cinkom u mg/kg\n\"@hr-t-de-t0-mtec" .
+<https://europeandataportal.eu/set/data/02a97c64-7803-420f-be2c-5e2478926cba> <http://www.w3.org/ns/dcat#keyword> "\"bodenschutz\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://europeandataportal.eu/set/distribution/cf557db9-4021-4017-a92a-b707a6d020ca> <http://purl.org/dc/terms/identifier> "\"https://ckan.www.open.nrw.de/dataset/02A97C64-7803-420F-BE2C-5E2478926CBA/resource/62c76115-3539-4d3c-9713-10088b6d959e\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://europeandataportal.eu/set/distribution/cf557db9-4021-4017-a92a-b707a6d020ca> <http://purl.org/dc/terms/title> "\"WMS FIS StoBo NRW - Fachinformationssystem Stoffliche Bodenbelastung\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://europeandataportal.eu/set/distribution/cf557db9-4021-4017-a92a-b707a6d020ca> <http://purl.org/dc/terms/description> "\"WMS-Dienst FIS Stobo NRW\n\nWeitere Daten des Dienstes, die nicht standard-konform (ISO 19119) hinterlegt werden können, zum Teil gemäß INSPIRE-Direktive aber bereit zu stellen sind*:\n\nErläuterung zum Fachbezug: null\n(supplementalInformation/gco:CharacterString= null)\n\n---\n* Nähere Informationen zur INSPIRE-Direktive: http://inspire.jrc.ec.europa.eu/implementingRulesDocs_md.cfm\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://europeandataportal.eu/set/distribution/cf557db9-4021-4017-a92a-b707a6d020ca> <http://www.w3.org/ns/dcat#accessURL> <https://www.wms.nrw.de/umwelt/stobo?SERVICE=WMS&REQUEST=GetCapabilities> .
+<https://europeandataportal.eu/set/distribution/cf557db9-4021-4017-a92a-b707a6d020ca> <http://purl.org/dc/terms/license> <http://dcat-ap.de/def/licenses/other-closed> .
+<https://europeandataportal.eu/set/distribution/cf557db9-4021-4017-a92a-b707a6d020ca> <http://purl.org/dc/terms/format> "\"view\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://europeandataportal.eu/set/distribution/cf557db9-4021-4017-a92a-b707a6d020ca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Distribution> .
+<http://publications.europa.eu/resource/authority/data-theme/ENVI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://ckan.www.open.nrw.de/organization/bf389131-4b9f-4756-8163-958d41ce49de> <http://xmlns.com/foaf/0.1/name> "\"Geoportal\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.www.open.nrw.de/organization/bf389131-4b9f-4756-8163-958d41ce49de> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .

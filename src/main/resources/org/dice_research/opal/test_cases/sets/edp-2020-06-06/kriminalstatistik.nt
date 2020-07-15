@@ -1,0 +1,201 @@
+<https://europeandataportal.eu/set/distribution/bda287e3-17fb-488c-af8f-fb3a3d86838c> <http://purl.org/dc/terms/identifier> "\"https://ckan.govdata.de/dataset/0207489a-3d7e-4782-b265-25e28a100769/resource/b05068f3-6ba2-4e7c-9a08-818f15015568\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://europeandataportal.eu/set/distribution/bda287e3-17fb-488c-af8f-fb3a3d86838c> <http://purl.org/dc/terms/language> <http://publications.europa.eu/resource/authority/language/DEU> .
+<https://europeandataportal.eu/set/distribution/bda287e3-17fb-488c-af8f-fb3a3d86838c> <http://purl.org/dc/terms/description> "\"Wichtige Hinweise zur Interpretation der  Daten 2014\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://europeandataportal.eu/set/distribution/bda287e3-17fb-488c-af8f-fb3a3d86838c> <http://www.w3.org/ns/dcat#accessURL> <https://www.bka.de/SharedDocs/Downloads/DE/Publikationen/PolizeilicheKriminalstatistik/2014/pks2014wichtigeHinweise_pdf.pdf?__blob=publicationFile&v=1> .
+<https://europeandataportal.eu/set/distribution/bda287e3-17fb-488c-af8f-fb3a3d86838c> <http://purl.org/dc/terms/license> <http://dcat-ap.de/def/licenses/officialWork> .
+<https://europeandataportal.eu/set/distribution/bda287e3-17fb-488c-af8f-fb3a3d86838c> <http://purl.org/dc/terms/format> "\"PDF\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://europeandataportal.eu/set/distribution/bda287e3-17fb-488c-af8f-fb3a3d86838c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Distribution> .
+<https://europeandataportal.eu/set/data/0207489a-3d7e-4782-b265-25e28a100769> <http://www.w3.org/ns/dcat#distribution> <https://europeandataportal.eu/set/distribution/4e7c7aed-c56d-45aa-b396-e86228980a6a> .
+<https://europeandataportal.eu/set/data/0207489a-3d7e-4782-b265-25e28a100769> <http://www.w3.org/ns/dcat#contactPoint> <ca9c22b8875e3f9776da6033e6fe29af> .
+<https://europeandataportal.eu/set/data/0207489a-3d7e-4782-b265-25e28a100769> <http://www.w3.org/ns/dqv#hasQualityMeasurement> <9ebee64b736dc6682d3a1d2f4e7117c2> .
+<https://europeandataportal.eu/set/data/0207489a-3d7e-4782-b265-25e28a100769> <http://www.w3.org/ns/dcat#landingPage> <http://www.bka.de> .
+<https://europeandataportal.eu/set/data/0207489a-3d7e-4782-b265-25e28a100769> <http://dcat-ap.de/def/dcatde/contributorID> <http://www.bka.de/> .
+<https://europeandataportal.eu/set/data/0207489a-3d7e-4782-b265-25e28a100769> <http://www.w3.org/ns/dqv#hasQualityMeasurement> <353ee3444cfa07c693110987b3cd8fdd> .
+<https://europeandataportal.eu/set/data/0207489a-3d7e-4782-b265-25e28a100769> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> .
+<https://europeandataportal.eu/set/data/0207489a-3d7e-4782-b265-25e28a100769> <http://www.w3.org/ns/dcat#distribution> <https://europeandataportal.eu/set/distribution/bda287e3-17fb-488c-af8f-fb3a3d86838c> .
+<https://europeandataportal.eu/set/data/0207489a-3d7e-4782-b265-25e28a100769> <http://purl.org/dc/terms/issued> "\"2015-05-06T00:00:00\"^^http://www.w3.org/2001/XMLSchema#dateTime" .
+<https://europeandataportal.eu/set/data/0207489a-3d7e-4782-b265-25e28a100769> <http://www.w3.org/ns/dqv#hasQualityMeasurement> <590810856999b20814c8e7cd614cced4> .
+<https://europeandataportal.eu/set/data/0207489a-3d7e-4782-b265-25e28a100769> <http://www.w3.org/ns/dqv#hasQualityMeasurement> <9354384def235a0078b4d86db6729b77> .
+<https://europeandataportal.eu/set/data/0207489a-3d7e-4782-b265-25e28a100769> <http://www.w3.org/ns/dqv#hasQualityMeasurement> <cc67629db369de0fd2689e8e7b9661c4> .
+<https://europeandataportal.eu/set/data/0207489a-3d7e-4782-b265-25e28a100769> <http://www.w3.org/ns/dqv#hasQualityMeasurement> <1ccf862ffe762cd4eeaa604901e679ba> .
+<https://europeandataportal.eu/set/data/0207489a-3d7e-4782-b265-25e28a100769> <http://www.w3.org/ns/dqv#hasQualityAnnotation> <416b66228824d16728c39325f260168b> .
+<https://europeandataportal.eu/set/data/0207489a-3d7e-4782-b265-25e28a100769> <http://www.w3.org/ns/dqv#hasQualityMeasurement> <bfa116cb6b9ddcba90a5160e82a7f86e> .
+<https://europeandataportal.eu/set/data/0207489a-3d7e-4782-b265-25e28a100769> <http://www.w3.org/ns/dqv#hasQualityMeasurement> <6d8726ad111e1758de420f639b051f71> .
+<https://europeandataportal.eu/set/data/0207489a-3d7e-4782-b265-25e28a100769> <http://www.w3.org/ns/dqv#hasQualityAnnotation> <fc601c4b96f4eba093ab7333abb7d244> .
+<https://europeandataportal.eu/set/data/0207489a-3d7e-4782-b265-25e28a100769> <http://purl.org/dc/terms/title> "\"2014 Polizeiliche Kriminalstatistik - T50 Tatverdächtige nichtdeutsch nach Alter und Geschlecht Erwachsene ab 60 Jahre Kreise\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://europeandataportal.eu/set/data/0207489a-3d7e-4782-b265-25e28a100769> <http://purl.org/dc/terms/temporal> <b8d127fd3a1fc7f9fda1f86fc664902c> .
+<https://europeandataportal.eu/set/data/0207489a-3d7e-4782-b265-25e28a100769> <http://purl.org/dc/terms/publisher> <https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> .
+<https://europeandataportal.eu/set/data/0207489a-3d7e-4782-b265-25e28a100769> <http://dcat-ap.de/def/dcatde/maintainer> <b30a2985e3feaccba03eb0b90be9a508> .
+<https://europeandataportal.eu/set/data/0207489a-3d7e-4782-b265-25e28a100769> <http://purl.org/dc/terms/creator> <c2b81c80395422d7f71f65aa8a1a4459> .
+<https://europeandataportal.eu/set/data/0207489a-3d7e-4782-b265-25e28a100769> <http://purl.org/dc/terms/modified> "\"2015-05-06T00:00:00\"^^http://www.w3.org/2001/XMLSchema#dateTime" .
+<https://europeandataportal.eu/set/data/0207489a-3d7e-4782-b265-25e28a100769> <http://www.w3.org/ns/dqv#hasQualityMeasurement> <1e0598a1045aae99b334619b728c1f45> .
+<https://europeandataportal.eu/set/data/0207489a-3d7e-4782-b265-25e28a100769> <http://www.w3.org/ns/dqv#hasQualityAnnotation> <e2c90c56c5dc6d5c5843f61ed8216d9a> .
+<https://europeandataportal.eu/set/data/0207489a-3d7e-4782-b265-25e28a100769> <http://www.w3.org/ns/dqv#hasQualityMeasurement> <ffbebf7fcbb0f7be08f4e70fc45c0ff1> .
+<https://europeandataportal.eu/set/data/0207489a-3d7e-4782-b265-25e28a100769> <http://www.w3.org/ns/dqv#hasQualityAnnotation> <9152965292dd3fd5164f94719d964738> .
+<https://europeandataportal.eu/set/data/0207489a-3d7e-4782-b265-25e28a100769> <http://www.w3.org/ns/dcat#theme> <http://publications.europa.eu/resource/authority/data-theme/JUST> .
+<https://europeandataportal.eu/set/data/0207489a-3d7e-4782-b265-25e28a100769> <http://purl.org/dc/terms/identifier> "\"0207489a-3d7e-4782-b265-25e28a100769\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://europeandataportal.eu/set/data/0207489a-3d7e-4782-b265-25e28a100769> <http://www.w3.org/ns/dqv#hasQualityAnnotation> <863c3620199905cf4e15303fd0d8a1d2> .
+<https://europeandataportal.eu/set/data/0207489a-3d7e-4782-b265-25e28a100769> <http://www.w3.org/ns/dcat#keyword> "\"polizeiliche_kriminalstatistik\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://europeandataportal.eu/set/data/0207489a-3d7e-4782-b265-25e28a100769> <http://www.w3.org/ns/dcat#keyword> "\"pks\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://europeandataportal.eu/set/data/0207489a-3d7e-4782-b265-25e28a100769> <http://www.w3.org/ns/dcat#distribution> <https://europeandataportal.eu/set/distribution/e9b3bb6b-3af6-43f0-9de4-bd2640fef856> .
+<https://europeandataportal.eu/set/data/0207489a-3d7e-4782-b265-25e28a100769> <http://purl.org/dc/terms/spatial> <dee792d745079b9ca702cb3ffa070082> .
+<https://europeandataportal.eu/set/data/0207489a-3d7e-4782-b265-25e28a100769> <http://www.w3.org/ns/dcat#distribution> <https://europeandataportal.eu/set/distribution/defcf608-b3bb-424b-a0b8-55f4317ae8fc> .
+<https://europeandataportal.eu/set/data/0207489a-3d7e-4782-b265-25e28a100769> <http://www.w3.org/ns/dqv#hasQualityMeasurement> <9df13a61d13320d8f435a9b2f5c6aae7> .
+<https://europeandataportal.eu/set/data/0207489a-3d7e-4782-b265-25e28a100769> <http://purl.org/dc/terms/description> "\"Informationen zu nichtdeutschen Tatverdächtigen Erwachsene ab 60 Jahre pro Kreis (Aufgliederung nach Delikten, Anzahl Tatverdächtige insgesamt, nach Geschlecht, nach Alter)\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/name> "\"Luftfahrt-Bundesamt; Stabsstelle Behördenleitung, Sachgebiet SBl 3\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/mbox> "\"bernd.vahrenkamp@bsh.de\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/name> "\"Beschaffungsamt des Bundeministeriums des Innern, Stabsstelle Presse und Kommunikation\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/name> "\"Bundespolizei; Stabsstelle Presse- und Öffentlichkeitsarbeit\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/homepage> <http://badv.bund.de> .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/homepage> <http://www.bundeskanzlerin.de> .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/homepage> <http://www.bmel.de> .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/name> "\"Bundesanstalt für den Digitalfunk der Behörden und Organisationen mit Sicherheitsaufgaben; Poststelle\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/name> "\"Bundesministerium für Ernährung und Landwirtschaft; Referat 123\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/homepage> <http://www.ti.bund.de> .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/homepage> <http://www.bast.de> .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/homepage> <http://www.bstu.bund.de> .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/mbox> "\"Auftraggeberschnittstelle@badv.bund.de\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/name> "\"Der Bundesbeauftragte für die Unterlagen des Staatssicherheitsdienstes der ehemaligen Deutschen Demokratsichen Republik (BStU)\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/mbox> "\"forschung@bzga.de\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/mbox> "\"katja.evertz@bbk.bund.de\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/name> "\"Luftfahrt-Bundesamt; Stabsstelle Behördenleitung, Sachgebiet SBl 3 \"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/homepage> <http://www.bfu-web.de> .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/mbox> "\"bpolp@polizei.bund.de\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/mbox> "\"Antje.Hoffmeister@ptb.de\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/name> "\"Bundesamt für Familie und zivilgesellschaftliche Aufgaben; Presse- und Öffentlichkeitsarbeit\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/mbox> "\"Referat12@bag.bund.de\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/mbox> "\"buergerservice@diplo.de\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/name> "\"Thünen-Institut; Institut für Waldökosysteme\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/name> "\"Bundesinstitut für Arzneimittel und Medizinprodukte, P3- Controlling/E-Prozesse\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/name> "\"Bundeskriminalamt; KI 35\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/name> "\"Physikalisch-Technische Bundesanstalt; Q.4, Informationstechnologie\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/homepage> <http://www.jki.bund.de> .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/name> "\"Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen; Presse und Öffentlichkeitsarbeit\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/mbox> "\"andrea.gerster@bundeskartellamt.bund.de\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/name> "\"Bundesamt für Sicherheit in der Informationstechnik; Referat B23 Öffentlichkeitsarbeit und Presse\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/name> "\"Bundesamt für Migration und Flüchtlinge, Büro des Präsidenten\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/name> "\"Bundesamt für zentrale Dienste und offene Vermögensfragen, Referat Q 1\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/name> "\"Julius Kühn-Institut; Institut für Züchtungsforschung an Obst\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/homepage> <http://www.braunschweig.de/opengeodata> .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/name> "\"Bundespolizei, Stabsstelle Presse- und Öffentlichkeitsarbeit\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/name> "\"Bundeskartellamt\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/name> "\"Bundesamt für Naturschutz, Z 2.1 Naturschutzinformation, Geoinformation\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/name> "\"Bundesinstitut für Arzneimittel und Medizinprodukte; P3 - Controlling / E-Prozesse\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/homepage> <http://www.bzga.de/> .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/homepage> <http://www.kba.de> .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/mbox> "\"pr@bast.de\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/homepage> <https://www.bsi.bund.de> .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/name> "\"Bundesministerium für Gesundheit; Referat 415\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/name> "\"Bundesministerium des Innern, Referat \\\"Presse, Öffentlichkeitsarbeit, Internet\\\"\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/name> "\"Bundeskriminalamt, KI 35\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/mbox> "\"presse@bpb.de\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/name> "\"Bundesinstitut für Risikobewertung\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/homepage> <http://www.bundespolizei.de> .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/mbox> "\"rene.linden@thw.bund.de\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/mbox> "\"P3-Anfragen@bfarm.de\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/name> "\"Stadt Braunschweig, Fachbereich Stadtplanung und Umweltschutz, Abt. Geoinformation\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/mbox> "\"klima.vertrieb@dwd.de\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/homepage> <http://www.bpb.de> .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/name> "\"Bundesamt für Bevölkerungsschutz und Katastrophenhilfe; Referat II.2 Information der Bevölkerung, Selbstschutz und -hilfe\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/mbox> "\"opendata@bmi.bund.de\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/homepage> <http://www.bkg.bund.de> .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/mbox> "\"415@bmg.bund.de\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/homepage> <http://www.bfn.de> .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/name> "\"Bundesanstalt Technisches Hilfswerk, Referat Z2 - Organisation\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/name> "\"Bundesministerium des Innern; Referat Presse; Öffentlichkeitsarbeit; Internet\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/name> "\"Bundesministerium des Innern, Referat O1\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/name> "\"Bundesprüfstelle für jugendgefährdende Medien; \"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/mbox> "\"poststelle@bfr.bund.de\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/homepage> <http://www.bag.bund.de> .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/mbox> "\"Angela.Clemens-Mitschke@bbk.bund.de\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/homepage> <http://www.bmi.bund.de> .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/mbox> "\"internetpost@bundesregierung.de\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/name> "\"Bundesamt für Seeschifffahrt und Hydrographie, Abteilung N\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/name> "\"Bundesministerium für Verkehr und Digitale Infrastruktur\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/name> "\"Kraftfahrt-Bundesamt; Ref. 31 statistische Informationsverbreitung\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/mbox> "\"123@bmel.bund.de\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/homepage> <http://www.thw.de> .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/mbox> "\"rolf.helgert@kba.de\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/homepage> <http://www.bsh.de> .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/homepage> <http://www.bbk.bund.de> .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/name> "\"Bundeszentrale für politische Bildung, Stabsstelle Kommunikation\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/name> "\"Bundesamt für Güterverkehr, Referat 12\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/name> "\"Bundesanstalt für Straßenwesen; Klima und Umwelt Vertriebsleitung KU VL\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/mbox> "\"dlz@bkg.bund.de\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/name> "\"Bundeszentrale für gesundheitliche Aufklärung; Referat 2-25 Forschung; Qualitätssicherung\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/homepage> <http://www.bfr.bund.de> .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/homepage> <http://www.t2apps.de> .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/mbox> "\"O2@bmi.bund.de\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/mbox> "\"I@bmg.bund.de\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/mbox> "\"opengeodata@braunschweig.de\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/name> "\"Bundesministerium des Innern; Referat O2\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/homepage> <http://www.bib-demografie.de> .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/name> "\"Bundesstelle für Flugunfalluntersuchung, Fachbereich 2, Flugsicherheitsarbeit\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/name> "\"Bundesamt für Bevölkerungsschutz und Katastrophenhilfe; Grundsatzangelegenheiten des Bevölkerungsschutzes, Ehrenamt, Risikoanalyse\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/mbox> "\"naturschutzinformation@bfn.de\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/mbox> "\"Forschung@BZgA.de\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/name> "\"Bundesamt für Naturschutz, Z 2.1 - Naturschutzinformation, Geoinformation\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/name> "\"Deutscher Wetterdienst; Klima und Umwelt Vertriebsleitung KU VL\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/name> "\"Bundeszentrale; Referat 2-25, Forschung, Qualitätssicherung\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/homepage> <http://www.dwd.de> .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/name> "\"Kraftfahrt-Bundesamt; Ref. 31 statistische  Informationsverbreitung\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/mbox> "\"info@bpjm.bund.de\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/name> "\"Bundesamt für Migration und Flüchtlinge; Büro des Präsidenten\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/mbox> "\"bdp@bamf.bund.de\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/name> "\"Bundesministerium des Innern, Referat \\\"Presse; Öffentlichkeitsarbeit; Internet\\\"\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/name> "\"Bundesministerium des Innern\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/name> "\"Thünen-Institut; Institut für Waldökologie\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/homepage> <http://www.bfarm.de> .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/mbox> "\"oeffentlichkeitsarbeit@bsi.bund.de\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/homepage> <http://www.bundesregierung.de> .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/homepage> <http://www.bundespruefstelle.de> .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/name> "\"Bundesministerium für Gesundheit; Referat415\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/name> "\"Steven Toensing\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/mbox> "\"post@bstu.bund.de\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/mbox> "\"pressestelle@bnetza.de\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/mbox> "\"monika.hoefer@jki.bund.de\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/mbox> "\"info@ti.bund.de\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/homepage> <http://www.bundeskartellamt.de> .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/homepage> <http://www.bundesnetzagentur.de> .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/mbox> "\"posteingang@bmvi.bund.de\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/mbox> "\"presse@bmi.bund.de\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/homepage> <http://www.diplo.de/terminologie> .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/name> "\"Bundesinstitut für Bevölkerungsforschung; Forschungsbereich 3; Dr. Evelyn Grünheid\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/mbox> "\"pressestelle@bafza.bund.de\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/mbox> "\"SBl3@lba.de\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/name> "\"Bundesamt für Kartographie und Geodäsie\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/homepage> <http://www.lba.de/DE/Home/home_node.html> .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/mbox> "\"info@bescha.bund.de\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/name> "\"Bundesministerium für Gesundheit; Referat I\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/mbox> "\"fb3@bib.bund.de\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/name> "\"Presse- und Informationsamt der Bundesregierung; Abteilung Presse- und Öffentlichkeitsarbeit\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/mbox> "\"kontakt@t2apps.de\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/mbox> "\"box@bfu-web.de\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/name> "\"Julius Kühn-Institut; Institut für Strategien und Folgenabschätzung\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/homepage> <http://www.bescha.bund.de> .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/homepage> <http://www.bmg.bund.de> .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/homepage> <http://www.bafza.bund.de> .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/mbox> "\"mario.wick@jki.bund.de\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://ckan.govdata.de/organization/bdc08f58-41dc-4f8a-a145-c019805bdeaf> <http://xmlns.com/foaf/0.1/name> "\"Auswärtiges Amt, Referat 105-5: Sprachendienst - Fachbereich Terminologie\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://europeandataportal.eu/set/distribution/defcf608-b3bb-424b-a0b8-55f4317ae8fc> <http://purl.org/dc/terms/identifier> "\"https://ckan.govdata.de/dataset/0207489a-3d7e-4782-b265-25e28a100769/resource/e141c92f-82f7-44d0-88f0-959dc0105583\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://europeandataportal.eu/set/distribution/defcf608-b3bb-424b-a0b8-55f4317ae8fc> <http://purl.org/dc/terms/language> <http://publications.europa.eu/resource/authority/language/DEU> .
+<https://europeandataportal.eu/set/distribution/defcf608-b3bb-424b-a0b8-55f4317ae8fc> <http://purl.org/dc/terms/description> "\"Straftatenkatalog 2014\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://europeandataportal.eu/set/distribution/defcf608-b3bb-424b-a0b8-55f4317ae8fc> <http://www.w3.org/ns/dcat#accessURL> <https://www.bka.de/SharedDocs/Downloads/DE/Publikationen/PolizeilicheKriminalstatistik/2014/Standardtabellen/straftatenkatalog_pdf.pdf?__blob=publicationFile&v=1> .
+<https://europeandataportal.eu/set/distribution/defcf608-b3bb-424b-a0b8-55f4317ae8fc> <http://purl.org/dc/terms/license> <http://dcat-ap.de/def/licenses/officialWork> .
+<https://europeandataportal.eu/set/distribution/defcf608-b3bb-424b-a0b8-55f4317ae8fc> <http://purl.org/dc/terms/format> "\"PDF\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://europeandataportal.eu/set/distribution/defcf608-b3bb-424b-a0b8-55f4317ae8fc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Distribution> .
+<https://europeandataportal.eu/set/distribution/4e7c7aed-c56d-45aa-b396-e86228980a6a> <http://purl.org/dc/terms/identifier> "\"https://ckan.govdata.de/dataset/0207489a-3d7e-4782-b265-25e28a100769/resource/c2b73d8f-6a3f-46b5-9828-40b5c9f90559\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://europeandataportal.eu/set/distribution/4e7c7aed-c56d-45aa-b396-e86228980a6a> <http://purl.org/dc/terms/language> <http://publications.europa.eu/resource/authority/language/DEU> .
+<https://europeandataportal.eu/set/distribution/4e7c7aed-c56d-45aa-b396-e86228980a6a> <http://purl.org/dc/terms/description> "\"Polizeiliche Kriminalstatistik 2014 - Informationen zu nichtdeutschen Tatverdächtigen Erwachsene ab 60 Jahre pro Kreis (Aufgliederung nach Delikten, Anzahl Tatverdächtige insgesamt, nach Geschlecht, nach Alter)\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://europeandataportal.eu/set/distribution/4e7c7aed-c56d-45aa-b396-e86228980a6a> <http://www.w3.org/ns/dcat#accessURL> <https://www.bka.de/SharedDocs/Downloads/DE/Publikationen/PolizeilicheKriminalstatistik/2014/BKATabellen/TatverdaechtigeLaenderKreiseStaedte/tb50_TatverdaechtigeNichtdeutschSeniorenKreise_csv.csv?__blob=publicationFile&v=2> .
+<https://europeandataportal.eu/set/distribution/4e7c7aed-c56d-45aa-b396-e86228980a6a> <http://purl.org/dc/terms/license> <http://dcat-ap.de/def/licenses/officialWork> .
+<https://europeandataportal.eu/set/distribution/4e7c7aed-c56d-45aa-b396-e86228980a6a> <http://purl.org/dc/terms/format> "\"CSV\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://europeandataportal.eu/set/distribution/4e7c7aed-c56d-45aa-b396-e86228980a6a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Distribution> .
+<https://europeandataportal.eu/set/distribution/e9b3bb6b-3af6-43f0-9de4-bd2640fef856> <http://purl.org/dc/terms/identifier> "\"https://ckan.govdata.de/dataset/0207489a-3d7e-4782-b265-25e28a100769/resource/2334c3f4-969f-4bb5-8443-42d00790ec0d\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://europeandataportal.eu/set/distribution/e9b3bb6b-3af6-43f0-9de4-bd2640fef856> <http://purl.org/dc/terms/language> <http://publications.europa.eu/resource/authority/language/DEU> .
+<https://europeandataportal.eu/set/distribution/e9b3bb6b-3af6-43f0-9de4-bd2640fef856> <http://purl.org/dc/terms/description> "\"Hinweise zu den Tabellen - Erläuterungen zum Aufbau\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://europeandataportal.eu/set/distribution/e9b3bb6b-3af6-43f0-9de4-bd2640fef856> <http://www.w3.org/ns/dcat#accessURL> <https://www.bka.de/SharedDocs/Downloads/DE/Publikationen/PolizeilicheKriminalstatistik/2014/BKATabellen/hinweiseZuDenTabellen_pdf.pdf?__blob=publicationFile&v=1> .
+<https://europeandataportal.eu/set/distribution/e9b3bb6b-3af6-43f0-9de4-bd2640fef856> <http://purl.org/dc/terms/license> <http://dcat-ap.de/def/licenses/officialWork> .
+<https://europeandataportal.eu/set/distribution/e9b3bb6b-3af6-43f0-9de4-bd2640fef856> <http://purl.org/dc/terms/format> "\"PDF\"^^http://www.w3.org/2001/XMLSchema#string" .
+<https://europeandataportal.eu/set/distribution/e9b3bb6b-3af6-43f0-9de4-bd2640fef856> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Distribution> .
